@@ -4,7 +4,6 @@ import Form from './Form';
 function App() {
   return (
     <>
-      <span>Leo's remote</span>
       <Form />
     </>
   );

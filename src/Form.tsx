@@ -6,8 +6,8 @@ const Form = () => {
     setName(name);
   };
   return (
-    <React.Fragment>
-      <span>Leo's remote</span>
+    <div>
+      <span>Join Leo's Soccer Club</span>
       <form>
         <label>
           Enter a message:
@@ -15,7 +15,7 @@ const Form = () => {
         </label>
       </form>
       <span>{name}</span>
-    </React.Fragment>
+    </div>
   );
 };
 
