@@ -7,7 +7,7 @@ const Form = () => {
   };
   return (
     <div>
-      <span>Join Leo's Soccer Club</span>
+      <span>Hello everyone we are killing it!!!! :)</span>
       <form>
         <label>
           Enter a message:
