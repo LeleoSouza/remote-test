@@ -7,6 +7,7 @@ const Form = () => {
   };
   return (
     <React.Fragment>
+      <span>Leo's remote</span>
       <form>
         <label>
           Enter a message:
