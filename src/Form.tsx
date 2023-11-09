@@ -9,7 +9,7 @@ const Form = () => {
     <React.Fragment>
       <form>
         <label>
-          Name:
+          Enter a message:
           <input type='text' value={name} onChange={(e) => handleChange(e.target.value)} />
         </label>
       </form>
