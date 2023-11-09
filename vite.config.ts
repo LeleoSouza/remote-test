@@ -10,7 +10,7 @@ export default defineConfig({
       name: 'remote_app',
       filename: 'remoteEntry.js',
       exposes: {
-        './Counter': './src/Counter',
+        './Form': './src/Form',
       },
       shared: ['react', 'react-dom'],
     }),
