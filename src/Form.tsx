@@ -7,7 +7,7 @@ const Form = () => {
   };
   return (
     <div>
-      <span>Hello everyone we are killing it!!!! :)</span>
+      <span>Hello Matt, hope you like the demo ;) </span>
       <form>
         <label>
           Enter a message:
